@@ -1,4 +1,4 @@
-FROM wordpress:4.1
+FROM wordpress:4.2
 MAINTAINER Pierre Galvez <pierre@lbab.fr>
 
 RUN a2enmod expires
